@@ -7,7 +7,7 @@ This project analyzes student performance data to understand how different facto
 - Explore relationships between features and exam scores
 - Perform exploratory data analysis (EDA)
 - Build regression models to predict student scores
-- Evaluate model performance using metrics like MAE, MSE, RMSE
+- Evaluate model performance using metrics like MAE, MSE, RMSE, R2
 
 ## 🛠️ Technologies Used
 - Python
